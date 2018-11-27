@@ -80,7 +80,7 @@ header nav li{
 
 body{
 
-    background-color: #9c9487;
+    background-color: #ececec;
 }
 
 
@@ -101,7 +101,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
-    background-color: #9c9487;
+    background-color: #ececec;
+    clip-path: polygon(0 1%, 100% 0, 100% 100%, 0 95%);
+
 
 }
 
